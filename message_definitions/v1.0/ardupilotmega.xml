@@ -865,6 +865,8 @@
       <entry value="4" name="PID_TUNING_ACCZ"/>
       <entry value="5" name="PID_TUNING_STEER"/>
       <entry value="6" name="PID_TUNING_LANDING"/>
+      <entry value="7" name="PID_TUNING_WHEEL_LEFT"/>
+      <entry value="8" name="PID_TUNING_WHEEL_RIGHT"/>
     </enum>
     <enum name="MAG_CAL_STATUS">
       <entry value="0" name="MAG_CAL_NOT_STARTED"/>
